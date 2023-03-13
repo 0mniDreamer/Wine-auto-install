@@ -22,4 +22,7 @@ sudo apt install -y --install-recommends winehq-staging
 sudo apt install -y winetricks 
 
 # Enable the winetricks self updater
-sudo winetricks --self-update 
+sudo winetricks --self-update
+
+
+
