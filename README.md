@@ -1,2 +1,2 @@
 # Wine-auto-install
-Auto mate the wine install process 
+Automate the wine install process 
