@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo "Welcome to the Wine Auto Installer"
 
 # Enable the 32-bit archicture support for Wine 
