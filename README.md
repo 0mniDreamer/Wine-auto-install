@@ -1,2 +1,3 @@
 # Wine-auto-install
-Auto mate the wine install process 
+Automate the wine install process 
+currently only works on Ubuntu 22.04 and other based of it 

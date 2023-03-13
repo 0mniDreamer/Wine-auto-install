@@ -1,12 +1,13 @@
 #!/bin/bash
 
+
 echo "Welcome to the Wine Auto Installer"
 
 # Enable the 32-bit archicture support for Wine 
 sudo dpkg --add-architecture i386
 
 # Make Directory to hold the Wine-HQ key and retreieve the key 
-sudo mkdir -pm755 /etc/apt/keyrings/
+sudo mkdir -pm755 /etc/apt/keyrings
 sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
 
 # Update the sources list with the WineHQ repo.
