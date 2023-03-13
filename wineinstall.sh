@@ -1,5 +1,6 @@
 #!/bin/bash
 
+chmod U+X wineinstall.sh
 echo "Welcome to the Wine Auto Installer"
 
 # Enable the 32-bit archicture support for Wine 
